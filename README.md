@@ -1,1 +1,1 @@
-# C-STL-Questions-Hackerrank
+# C++ STL-Questions-Hackerrank
